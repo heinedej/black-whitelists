@@ -2,3 +2,4 @@
 (^|\.)google\.com$
 (^|\.)google\.com
 # (^|\.)com$
+google.com
