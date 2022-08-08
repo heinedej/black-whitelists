@@ -1,7 +1,10 @@
 # 0.0.0.0 .
 (^|\.)google\.com$
 (^|\.)google\.com
-# (^|\.)com$
+(^|\.)com$
 google.com
 0.0.0.0 www.google.com
 0.0.0.0 play.google.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
