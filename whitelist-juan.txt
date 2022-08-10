@@ -4,3 +4,5 @@ mobymax.co.za
 www.mobymax.co.za
 joytunes.com
 www.typing.com
+data.mobymax.com
+za-api.mobymax.com
