@@ -6,3 +6,4 @@ joytunes.com
 www.typing.com
 data.mobymax.com
 za-api.mobymax.com
+gsp-ssl.ls.apple.com
