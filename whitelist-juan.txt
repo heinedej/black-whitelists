@@ -11,3 +11,5 @@ fonts.googleapis.com
 rest.ably.io
 gsp-ssl.ls-apple.com.akadns.net
 family.mmguardian.com
+tts.mobymax.com
+za-api.mobymax.com
