@@ -16,3 +16,4 @@ za-api.mobymax.com
 realtime.ably.io
 init.push.apple.com
 push.apple.com
+log.tynker.com
