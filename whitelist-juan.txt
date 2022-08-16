@@ -17,3 +17,10 @@ realtime.ably.io
 init.push.apple.com
 push.apple.com
 log.tynker.com
+roaming.officeapps.live.com
+self.events.data.microsoft.com
+ocws.officeapps.live.com
+d.docs.live.net
+api.onedrive.com.
+docs.live.net
+ocws.officeapps.live.com.
