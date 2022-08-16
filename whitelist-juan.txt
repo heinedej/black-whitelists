@@ -21,6 +21,9 @@ roaming.officeapps.live.com
 self.events.data.microsoft.com
 ocws.officeapps.live.com
 d.docs.live.net
-api.onedrive.com.
+api.onedrive.com
 docs.live.net
 ocws.officeapps.live.com.
+prod.ocws1.live.com.akadns.net
+common.be.1drv.com.l-0003.dc-msedge.net.l-0003.l-msedge.net
+prod.roaming1.live.com.akadns.net
