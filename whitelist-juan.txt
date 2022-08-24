@@ -1,7 +1,8 @@
-mobymax.com
-www.mobymax.com
-mobymax.co.za
-www.mobymax.co.za
+(\.|^)mobymax\.co\.za$
+(\.|^)mobymax\.com$
+(\.|^)typing\.com$
+(\.|^)ably\.io$
+(\.|^)officeapps\.live\.com$
 joytunes.com
 www.typing.com
 data.mobymax.com
