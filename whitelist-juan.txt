@@ -1,9 +1,3 @@
-(\.|^)mobymax\.co\.za$
-(\.|^)mobymax\.com$
-(\.|^)typing\.com$
-(\.|^)ably\.io$
-(\.|^)officeapps\.live\.com$
-(\.|^)tynker\.com$
 joytunes.com
 www.typing.com
 data.mobymax.com
