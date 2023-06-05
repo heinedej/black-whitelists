@@ -1,7 +1,7 @@
 # 0.0.0.0 .
-(^|\.)google\.com$
-(^|\.)google\.com
-(^|\.)com$
+google\.com$
+google\.com
+com$
 google.com
 0.0.0.0 www.google.com
 0.0.0.0 play.google.com
